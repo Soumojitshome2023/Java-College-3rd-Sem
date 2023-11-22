@@ -2,7 +2,10 @@
 
 Maintained by [Soumojit Shome](https://soumojitshome.vercel.app)
 
-### 1. [Java 22 Nov 2023](https://github.com/Soumojitshome2023/DSA-CPP-College-3rd-Sem/tree/main/Java%2022%20Nov%202023)
+### JAVA College 3rd Sem
+
+====================================
+
+### 1. [Day 1 Java 22 Nov 2023](https://github.com/Soumojitshome2023/DSA-CPP-College-3rd-Sem/tree/main/Day%201%20Java%2022%20Nov%202023)
 
 * Java Lab Assignment DAY-1
-
