@@ -40,7 +40,7 @@ java FileName
 
 ### 1. [Day 1 Java 22 Nov 2023](https://github.com/Soumojitshome2023/Java-College-3rd-Sem/tree/main/Day%201%20Java%2022%20Nov%202023)
 
-* Java Lab Assignment DAY-1
+* Java Lab Assignment DAY-1:
 
    1. Write a Java Program to add two Numbers.
    2. Write a Java Program to check a number is Even or Odd.
@@ -52,8 +52,7 @@ java FileName
 
 ### 2. [Day 2 Java 8 Dec 2023](https://github.com/Soumojitshome2023/Java-College-3rd-Sem/tree/main/Day%202%20Java%208%20Dec%202023)
 
-* Java Lab Assignment DAY-2
- * Assignments:
+* Java Lab Assignment DAY-2:
 
     1. Write a Java Program to convert long to int.
     2. Write a Java Program to find ASCII value of a Character.
@@ -67,3 +66,13 @@ java FileName
     10. Write a Java Program to check Krishnamurthy number.
 
 
+### 3. [Day 3 Java 22 Dec 2023](https://github.com/Soumojitshome2023/Java-College-3rd-Sem/tree/main/Day%203%20Java%2022%20Dec%202023)
+
+* Java Lab Assignment DAY-3: 
+
+   1. Write a Java program that accepts an integer (n) and computes the value of n+nn+.....+nnn...up tontimes.(For example, if 3 is your input then, print the value of 3+33+333).
+   2. Write a Java Program to display the sequence ABA, BCB, CDC, DED,........
+   3. Write a Java Program to display the sequence AMM, COO, EQQ ,..........
+   4. Write a Java Program to displaythe sequence A1, B2, C3, ....Y25,Z26, A1, B2,...
+   5. Write a Java Program to convert a binary number to octal number.
+   6. Write a JAVA Program to create a Student class with proper attributes like roll no, name, stream, and college. Create two instances of that class from main (declared in different classes) and print them
